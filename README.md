@@ -52,7 +52,7 @@ add your json file
 ```javascript
 const angel = require('angeldb');
 
-const angels = table("./angels.json");
+const angels = angel("./angels.json");
 ```
 
 <br>
