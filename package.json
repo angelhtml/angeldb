@@ -1,0 +1,39 @@
+{
+	"name": "angelDB",
+	"version": "1.0.0",
+	"description": "AngelDB is a json database for nodejs",
+	"keywords": [
+		"localStorage",
+		"node",
+		"nodejs",
+		"light-json-database",
+		"leightweight-json-database",
+		"local",
+		"database",
+		"file",
+		"nosql",
+		"JSON",
+		"json",
+		"nosql-database",
+		"json-database",
+		"angel-code-style",
+		"angeldb",
+		"storage",
+		"nosql-data-storage"
+	],
+	"main": "./src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "angelcodestyle",
+	"bugs": {
+		"url": "https://github.com/angelhtml/angeldb/issues"
+	},
+	"homepage": "https://github.com/angelhtml/angeldb/blob/master/README.md",
+	"repository": "git://github.com/angelhtml/angeldb.git",
+	"license": "MIT",
+	"engines": {
+		"node": ">=6"
+	},
+	"private": false
+}
