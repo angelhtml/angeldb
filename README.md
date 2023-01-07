@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="img"/>
-  <img src="https://img.shields.io/badge/Version-1.0.0-ff0000" alt="img"/>
+  <img src="https://img.shields.io/badge/Version-1.0.2-ff0000" alt="img"/>
   <img src="https://img.shields.io/badge/code_style-Angel-ff0000.svg" alt="angel code style"/>
 </p><hr />
 
