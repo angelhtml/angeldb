@@ -1,3 +1,4 @@
+<h1>Angel DB 😇</h1>
 <div align="center">
     <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="Angel code style"/>
 </div>
@@ -14,7 +15,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="img"/>
-  <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt="img"/>
   <img src="https://img.shields.io/badge/Version-1.0.0-ff0000" alt="img"/>
   <img src="https://img.shields.io/badge/code_style-Angel-ff0000.svg" alt="angel code style"/>
 </p><hr />
@@ -23,7 +23,7 @@
 
 <br>
 
-AngelDB is a fast json database that allows you to insert data, delete and edit
+Angel DB is a fast json database that allows you to insert data, delete and edit
 
 <br>
 
