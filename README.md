@@ -7,7 +7,6 @@
 <br>
 
 <div align="center">
-<h1>AngelDB</h1>
 
 <p align="center">
   <img src="https://dcbadge.vercel.app/api/shield/509271102653202433" alt="img"/> 
