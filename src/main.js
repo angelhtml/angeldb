@@ -11,6 +11,7 @@ const write = async (path, data) => {
     await writeFile(path, JSON.stringify(data), "utf8")
 }
 
+
 module.exports = {
     read,
     write
