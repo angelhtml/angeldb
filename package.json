@@ -1,6 +1,6 @@
 {
 	"name": "angelDB",
-	"version": "1.0.0",
+	"version": "1.0.3",
 	"description": "AngelDB is a json database for nodejs",
 	"keywords": [
 		"localStorage",
