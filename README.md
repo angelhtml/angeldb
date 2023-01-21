@@ -1,4 +1,4 @@
-<h1>Angel DB 😇</h1>
+<h1>Angel DB </h1>
 <div align="center">
     <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="Angel code style"/>
 </div>
