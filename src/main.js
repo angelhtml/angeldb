@@ -15,4 +15,4 @@ const write = async (path, data) => {
 module.exports = {
     read,
     write
-};
+}
