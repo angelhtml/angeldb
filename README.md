@@ -92,11 +92,3 @@ Delete all objects in the json file
 ```javascript
 await angels.xo();
 ```
-
-<br>
-
-<p>
-love you all 😘
-
-..Angel Code Style..
-</p>
