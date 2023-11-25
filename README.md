@@ -93,4 +93,3 @@ Delete all objects in the json file
 await angels.xo();
 ```
 
-
